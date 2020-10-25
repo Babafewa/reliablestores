@@ -1,0 +1,10 @@
+#header{
+			color: blue;
+		}
+.section{
+        	justify-content: auto;
+        	text-align: justify;
+        }
+.insideparagraph{
+            font-weight: bold;
+        }
